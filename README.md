@@ -58,6 +58,7 @@ This is the Front-end part of the Hello Rails App, which will consume the [Hello
 
 
 ## 🚀 Live Demo & preview <a name="live-demo"></a>
+Coming soon...
  
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
