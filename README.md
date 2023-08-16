@@ -1,46 +1,161 @@
-# Getting Started with Create React App and Redux
+<a name="readme-top"></a>
+<div align="center">
+  <img src="https://github.com/VelzckC0D3/SQL_Database/assets/92229666/64c8d8a7-b625-4a25-847a-ea02e00df2f4" alt="Sin título-1">
+</div>
+<!-- TABLE OF CONTENTS -->
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
+# 📗 Index
 
-## Available Scripts
+- [📖 About the Project](#about-project)
+  - [🛠 Built With](#built-with)
+    - [Tech Stack](#tech-stack)
+    - [Key Features](#key-features)
+  - [🚀 Live Demo](#live-demo)
+- [💻 Getting Started](#getting-started)
+  - [Setup](#setup)
+  - [Prerequisites](#prerequisites)
+  - [Install](#install)
+  - [Usage](#usage)
+  - [Deployment](#deployment)
+- [👥 Author](#author)
+- [🔭 Features](#features)
+- [🤝 Contributing](#contributing)
+- [⭐️ Show your support](#support)
+- [🙏 Acknowledgements](#acknowledgements)
+- [📝 License](#license)
 
-In the project directory, you can run:
+<!-- PROJECT DESCRIPTION -->
 
-### `npm start`
+# 📖 Hello Rails (Front-end) `React & Redux` <a name="about-project"></a>
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+This is the Front-end part of the Hello Rails App, which will consume the [Hello Rails back-end Api endpoint with ruby on rails](https://github.com/VelzckC0D3/hello-rails-back-end)
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## 🛠 Built With <a name="built-with"></a>
 
-### `npm test`
+### Tech Stack <a name="tech-stack"></a>
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+<details>
+    <summary>Client</summary>
+    <ul>
+      <li><a href="https://react-redux.js.org/">React & Redux</a></li> 
+    </ul>
+  </details>
 
-### `npm run build`
+<details>
+<summary>Database</summary>
+  <ul>
+   <li><a href="https://www.json.org/json-en.html">JSON (API endpoint)</a></li>
+  </ul>
+</details>
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+<!-- Features -->
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+### Key Features <a name="key-features"></a>
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+- **React & Redux** React & Redux manages the frontend of the application, consuming the API endpoints and displaying the data.
 
-### `npm run eject`
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## 🚀 Live Demo & preview <a name="live-demo"></a>
+ 
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+<!-- GETTING STARTED -->
 
-## Learn More
+## 💻 Getting Started <a name="getting-started"></a>
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+To get a local copy up and running, follow these steps.
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+### Prerequisites
+
+In order to run this project you need:
+
+```sh
+ To have a computer, Internet, Keyboard and Mouse, also you will need Linux OS or WSL (Windows Subsystem for Linux) installed in your computer.
+```
+
+### Setup
+
+Clone this repository to your desired folder:
+
+```sh
+  Open it with Visual Studio Code (or your preffered IDE).
+```
+
+### Install
+
+Install this project with:
+
+```sh
+  Installation is not necessary
+```
+
+### Usage
+
+To run the project, execute the following command:
+
+```sh
+First, you need to install all the NPM dependencies with the following command:
+  npm install
+```
+```sh
+Then, you need to run the server with the following command:
+  npm run start
+```
+
+### Deployment
+
+Deployment is not necessary.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- AUTHOR -->
+
+## 👥 Author <a name="author"></a>
+
+- GitHub: [@VelzckC0D3](https://github.com/VelzckC0D3)
+- LinkedIn: [VelzckC0D3](https://www.linkedin.com/in/velzckcode/)
+
+<!-- FEATURES -->
+
+## 🔭 Future Features <a name="features"></a>
+
+- **Integral Testing** The application will be tested with RSpec and Jest.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- CONTRIBUTING -->
+
+## 🤝 Contributing <a name="contributing"></a>
+
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the [issues page](../../issues/).
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- SUPPORT -->
+
+## ⭐️ Show your support <a name="support"></a>
+
+If you like this project, be pending on my profile since I'll be doing much more! 
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- ACKNOWLEDGEMENTS -->
+
+## 🙏 Acknowledgments <a name="acknowledgements"></a>
+
+No extra acknowledgments
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- LICENSE -->
+
+## 📝 License <a name="license"></a>
+
+This project is [MIT](./LICENSE) licensed.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
