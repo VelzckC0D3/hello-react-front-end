@@ -1,10 +1,15 @@
 import React from 'react';
-import './App.css';
+import { Routes, Route } from 'react-router-dom';
+import Greeting from './components/Greeting';
 
 function App() {
   return (
-    <div className="App">
-      <h1>React Redux Template</h1>
+
+    <div>
+      <h1>react app</h1>
+      <Routes>
+        <Route path="/" element={<Greeting />} />
+      </Routes>
     </div>
   );
 }
