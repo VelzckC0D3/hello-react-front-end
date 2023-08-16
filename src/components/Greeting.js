@@ -9,8 +9,6 @@ function Greeting() {
     dispatch(getGreetings());
   }, [dispatch]);
 
-  console.log('This greeting', greeting);
-
   return (
     <div>
       <h2>{greeting.content}</h2>
